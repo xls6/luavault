@@ -8,7 +8,7 @@
 
 **LuaVualt Script Hub** is a collection of game scripts for Roblox. 
 
-If you're looking for scripts, use the "Go to File" function.
+If you're looking for scripts, use the "Go to File" function next to the green code button.
 
 I do **not** take credit for any scripts hosted here. Full credit goes to the creators of each script.
 
